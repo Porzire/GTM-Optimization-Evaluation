@@ -1,0 +1,27 @@
+# Java Compiled Files #
+**.class
+
+# Package Files #
+**.war
+**.ear
+**/target/
+
+# Eclipse Files #
+**/eclipse-classes/
+**.classpath
+**.project
+**.settings
+
+# System Temp Files #
+**.DS_Store
+
+# Vim Temp Files #
+**.swp
+**.swo
+
+# Large Corpus files #
+/etc
+/target
+
+# Log files #
+**log**
