@@ -22,6 +22,11 @@
 # Large Corpus files #
 /etc
 /target
+/resource
+/data
 
 # Log files #
 **log**
+
+# Result file #
+result
